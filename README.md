@@ -1,7 +1,7 @@
-# Sir-Yeet-s-Privacy-Policy
+# Tempest-s-Privacy-Policy
 **Privacy Policy**
 
-[Sir Yeet](https://discord.com/api/oauth2/authorize?client_id=944006750921687081&permissions=8&scope=bot%20applications.commands) is a multipurpose Discord bot that has many features to suit the need of your server, and make the server feel more like home!
+[Tempest](https://discord.com/api/oauth2/authorize?client_id=944006750921687081&permissions=8&scope=bot%20applications.commands) is a Server Management Discord bot that has many features to suit the need of your server, and make the server feel more like home!
 
 **What is a privacy policy?** 
 A privacy policy is a statement or legal document (in privacy law) that discloses some or all of the ways a party gathers, uses, discloses, and manages a user or guild's data. Listed below is the information that will be logged while using the bot and what is done with that information. Providing this privacy policy lets our users and members know exactly why some data is collected to better inform them and make them feel safe to use Sir Yeet in their server. 
@@ -22,7 +22,7 @@ This privacy policy is not our Terms and Conditions Agreement and not recognized
  
  **Who has access to the confidential info and data?**
  
- The data that is stored is kept in a secure database and can only be accessed by the Developer of Sir Yeet (ColonelFPS#6991). No one else will ever be shown the data for any reason. You can be assured that your info is safe and will remain as such.
+ The data that is stored is kept in a secure database and can only be accessed by the Developer of Tempest (tha_colonel). No one else will ever be shown the data for any reason. You can be assured that your info is safe and will remain as such.
  
  **Policy changes**
  
