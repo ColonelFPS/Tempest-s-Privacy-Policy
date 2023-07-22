@@ -4,10 +4,10 @@
 [Tempest](https://discord.com/api/oauth2/authorize?client_id=944006750921687081&permissions=8&scope=bot%20applications.commands) is a Server Management Discord bot that has many features to suit the need of your server, and make the server feel more like home!
 
 **What is a privacy policy?** 
-A privacy policy is a statement or legal document (in privacy law) that discloses some or all of the ways a party gathers, uses, discloses, and manages a user or guild's data. Listed below is the information that will be logged while using the bot and what is done with that information. Providing this privacy policy lets our users and members know exactly why some data is collected to better inform them and make them feel safe to use Sir Yeet in their server. 
+A privacy policy is a statement or legal document (in privacy law) that discloses some or all of the ways a party gathers, uses, discloses, and manages a user or guild's data. Listed below is the information that will be logged while using the bot and what is done with that information. Providing this privacy policy lets our users and members know exactly why some data is collected to better inform them and make them feel safe to use Tempest in their server. 
 
 **Hold up!**
-This privacy policy is not our Terms and Conditions Agreement and not recognized as such. The Terms and Conditions Agreement will have what you are agreeing with and the rules and guidlines that come with using Sir Yeet. 
+This privacy policy is not our Terms and Conditions Agreement and not recognized as such. The Terms and Conditions Agreement will have what you are agreeing with and the rules and guidlines that come with using Tempest. 
 
 
 **What Data is collected?**
